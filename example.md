@@ -65,4 +65,4 @@ export  $initHighlight;
 
 ## ページ5タイトル
 
-![abcde](./abcde.png)
+![abcde](images/surf.jpeg)
